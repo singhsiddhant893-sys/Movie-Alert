@@ -1,9 +1,38 @@
-{
-  "detector": "venue_date",
-  "movie": "Spider-Man: Brand New Day",
-  "requested_date": "20260730",
-  "venue_code": "INTO",
-  "venue_label": "INOX: The Marina Mall, OMR",
-  "url_template": "https://in.bookmyshow.com/movies/chennai/spiderman-brand-new-day/buytickets/ET00502600/{date}",
-  "min_references": 10
-}
+[
+  {
+    "detector": "venue_date",
+    "movie": "Dune: Part Three",
+    "requested_date": "20261218",
+    "venue_code": "FSCK",
+    "venue_label": "INOX: South City, Kolkata",
+    "url_template": "https://in.bookmyshow.com/movies/kolkata/dune-part-three/buytickets/ET00000000/{date}",
+    "min_references": 5
+  },
+  {
+    "detector": "venue_date",
+    "movie": "Avengers: Doomsday",
+    "requested_date": "20261217",
+    "venue_code": "MSMA",
+    "venue_label": "PVR: Mani Square Mall, Kolkata P[XL]",
+    "url_template": "https://in.bookmyshow.com/movies/kolkata/avengers-doomsday/buytickets/ET00000000/{date}",
+    "min_references": 5
+  },
+  {
+    "detector": "venue_date",
+    "movie": "Ramayana",
+    "requested_date": "20261121",
+    "venue_code": "FSCK",
+    "venue_label": "INOX South City Mall IMAX, Kolkata",
+    "url_template": "https://in.bookmyshow.com/movies/kolkata/ramayana/buytickets/ET00000000/{date}",
+    "min_references": 5
+  },
+  {
+    "detector": "venue_date",
+    "movie": "Godzilla Minus One",
+    "requested_date": "20261121",
+    "venue_code": "FSCK",
+    "venue_label": "INOX South City Mall IMAX, Kolkata",
+    "url_template": "https://in.bookmyshow.com/movies/kolkata/godzilla-minus-one/buytickets/ET00000000/{date}",
+    "min_references": 5
+  }
+]
